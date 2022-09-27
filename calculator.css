@@ -1,0 +1,27 @@
+
+  body {  
+   background-color:#9B59B6;  
+  }  
+  table {  
+   margin: auto;  
+   background-color: #ff4561;  
+   width: 295px;  
+   max-width: 295px;  
+   height: 325px;  
+   text-align: center;  
+   border-radius: 4px;  
+   
+   padding-right: 10px;  
+   border-color:#ff4561;  
+  }  
+ 
+ 
+    
+   
+
+
+   h3{  
+     text-align:center ;  
+     color: white ;  
+     font-size: 109%;  
+   }  
